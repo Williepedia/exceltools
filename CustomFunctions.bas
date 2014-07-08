@@ -1,4 +1,4 @@
-Enter file contents hereOption Explicit
+Option Explicit
 
 Sub onlyDigits_Descriptor()
     Dim argDescription(1) As String
